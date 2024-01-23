@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZackGramza
 - 👀 Aspiring CyberSecurity Professional
-- 💞️ I’m looking to collaborate on anything at all! 
+- 💞️ I’m looking to collaborate on anything at all!
+- 👀 Experience with Java, Python, Golang, and C# 
 - 📫 How to reach me zackgramza@gmail.com or PM me on here.
 
 <!---
