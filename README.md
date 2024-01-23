@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZackGramza
 - 👀 Aspiring CyberSecurity Professional
-- 💞️ I’m looking to collaborate on anything at all! Although I am a beginner I am willing to try my luck with anything, projects seem to have the best effect on my learning habits.
+- 💞️ I’m looking to collaborate on anything at all! 
 - 📫 How to reach me zackgramza@gmail.com or PM me on here.
 
 <!---
